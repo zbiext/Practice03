@@ -1,4 +1,3 @@
 include ':MaterialSearchViewDemo'
 include ':CoordinatorLayoutDemo'
-//include ':HelloJNI'
-//include ':ZbieWallerPaper'
+include ':ZbieWallerPaper'
