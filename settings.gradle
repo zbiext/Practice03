@@ -1,3 +1,4 @@
 include ':MaterialSearchViewDemo'
 include ':CoordinatorLayoutDemo'
 include ':ZbieWallerPaper'
+include ':ToolBarScrollHideDemo'

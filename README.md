@@ -13,3 +13,11 @@
 3. ZbieWallerPaper android 动态壁纸(有福利哦~)
 
     [Android 仿火萤视频桌面 神奇的LiveWallPaper](http://blog.csdn.net/lmj623565791/article/details/72170299)
+
+4. ToolBarScrollHideDemo
+    
+    ['拖把'的滑动隐藏/显示 01](http://jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0317/2612.html)
+    
+    ['拖把'的滑动隐藏/显示 02](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0319/2618.html)
+    
+    ['拖把'的滑动隐藏/显示 03](http://jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0317/2612.html)

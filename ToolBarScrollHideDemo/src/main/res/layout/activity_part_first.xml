@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".part.PartFirstActivity">
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recycler_view"
+        android:layout_height="match_parent"
+            android:layout_width="match_parent"/>
+    <!-- http://jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0317/2612.html -->
+    <!-- 因为FrameLayout的缘故, RecyclerView列表的最上面有部分内容被Toolbar挡住了，有两种办法：-->
+    <!-- 方法一: RecyclerView 添加如下属性
+            android:paddingTop="?attr/actionBarSize"
+            android:clipToPadding="false"
+
+         方法二：RecyclerView添加header 见java代码 RecyclerHeaderViewHolder 、TYPE_HEADER 、TYPE_ITEM
+    -->
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="?attr/colorPrimary"/>
+
+    <ImageButton
+        android:id="@+id/fabButton"
+        android:layout_width="56dp"
+        android:layout_height="56dp"
+        android:layout_gravity="bottom|end"
+        android:layout_marginBottom="16dp"
+        android:layout_marginEnd="16dp"
+        android:background="@drawable/fab_background"
+        android:contentDescription="@null"
+        android:src="@drawable/ic_favorite_outline_white_24dp"/>
+</FrameLayout>
