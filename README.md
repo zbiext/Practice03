@@ -21,3 +21,9 @@
     ['拖把'的滑动隐藏/显示 02](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0319/2618.html)
     
     ['拖把'的滑动隐藏/显示 03](http://jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0317/2612.html)
+    
+5. PagerSlidingTabStrip_Lib
+
+    [深度剖析之 PagerSlidingTabStrip](http://blog.csdn.net/analyzesystem/article/details/50316745)
+    
+    [github地址](https://github.com/astuetz/PagerSlidingTabStrip)
